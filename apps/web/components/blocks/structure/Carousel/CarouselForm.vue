@@ -236,10 +236,10 @@ const addSlide = async () => {
     type: 'content',
     content: {
       image: {
-        wideScreen: 'https://cdn02.plentymarkets.com/v5vzmmmcb10k/frontend/PWA/placeholder-image.png',
-        desktop: 'https://cdn02.plentymarkets.com/v5vzmmmcb10k/frontend/PWA/placeholder-image.png',
-        tablet: 'https://cdn02.plentymarkets.com/v5vzmmmcb10k/frontend/PWA/placeholder-image.png',
-        mobile: 'https://cdn02.plentymarkets.com/v5vzmmmcb10k/frontend/PWA/placeholder-image.png',
+        wideScreen: 'https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Web.webp',
+        desktop: 'https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Web.webp',
+        tablet: 'https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Mobile_neu.webp',
+        mobile: 'https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Mobile_neu.webp',
         brightness: 0.5,
         alt: '',
       },
