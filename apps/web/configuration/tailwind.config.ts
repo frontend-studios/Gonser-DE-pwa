@@ -37,7 +37,10 @@ export default {
         },
       }),
       fontFamily: {
-        body: [`${fontFamilyText}`, ...defaultTheme.fontFamily.sans],
+        sans: ['Open Sans', 'helvetica', 'Arial', 'sans-serif'],
+      },
+      textColor: {
+        DEFAULT: '--default-text-color',
       },
       colors: {
         primary: {

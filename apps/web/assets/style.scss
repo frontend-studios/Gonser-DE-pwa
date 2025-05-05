@@ -1,11 +1,6 @@
 @import '_variables';
 @import '_custom-overrides';
-@font-face {
-  font-family: 'Open Sans';
-  src: url('/apps/web/assets/fonts/OpenSans-VariableFont_wdth\,wght.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
+@import '_fonts';
 :root {
   --colors-2-primary-50: #{$color-2-primary-50};
   --colors-2-primary-100: #{$color-2-primary-100};
@@ -28,10 +23,12 @@
   --colors-2-secondary-700: #{$color-2-secondary-700};
   --colors-2-secondary-800: #{$color-2-secondary-800};
   --colors-2-secondary-900: #{$color-2-secondary-900};
+
+  --default-text-color: rgb(60 60 60);
 }
 
-body {
-  color: $default-text-color;
+html, body {
+  color: $default-text-color !important;
   font-family: 'Open Sans', helvetica, Arial, sans-serif !important;
 }
 .scrollbar-hidden {
