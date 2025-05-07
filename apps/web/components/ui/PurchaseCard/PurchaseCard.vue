@@ -21,13 +21,13 @@
                     viewport.isLessThan('lg'),
                 }"
               >
-                <template v-if="viewport.isGreaterOrEquals('lg')">
+                <!-- <template v-if="viewport.isGreaterOrEquals('lg')">
                   {{
                     !isWishlistItem(productGetters.getVariationId(product))
                       ? t('addToWishlist')
                       : t('removeFromWishlist')
                   }}
-                </template>
+                </template> -->
               </WishlistButton>
             </div>
           </div>
@@ -50,7 +50,7 @@
           <div class="mt-2 variation-properties">
             <VariationProperties :product="product" />
           </div>
-          <div class="inline-flex items-center mt-4 mb-2">
+          <!-- <div class="inline-flex items-center mt-4 mb-2">
             <SfRating
               size="xs"
               :half-increment="true"
@@ -66,7 +66,7 @@
             >
               {{ t('showAllReviews') }}
             </UiButton>
-          </div>
+          </div> -->
           <div
             v-if="productGetters.getShortDescription(product).length > 0"
             class="mb-4 font-normal typography-text-sm whitespace-pre-line break-words"
