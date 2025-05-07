@@ -20,28 +20,28 @@
         },
         "content": {
           "image": {
-            "wideScreen": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Person/guy-1024.avif",
-            "desktop": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Person/guy-1024.avif",
-            "tablet": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Person/guy-768.avif",
-            "mobile": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Person/guy-320.avif",
+            "wideScreen": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_1_Schlafzimmer_02-25_Web.webp",
+            "desktop": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_1_Schlafzimmer_02-25_Web.webp",
+              "tablet": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_1_Schlafzimmer_02-25_Mobile.webp",
+              "mobile": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_1_Schlafzimmer_02-25_Mobile.webp",
             "alt": "",
             "brightness": 0.5
           },
           "text": {
             "color": "#000",
             "bgcolor": "#fff",
-            "bgopacity": 0.9,
-            "pretitle": "Kristalklare Klänge Genießen",
-            "title": "Ihr Sound",
-            "subtitle": "Auf höchstem Niveau",
+            "bgopacity": 0.8,
+            "pretitle": "Wo Träume wahr werden",
+            "title": "Alles rund ums Schlafzimmer zum Tiefstpreis!",
+            "subtitle": "",
             "htmlDescription": "Unsere hochmodernen Kopfhörer: Entwickelt für das ultimative Hörerlebnis genügen sie auch den höchsten Ansprüchen. Entdecken Sie die perfekte Mischung aus Stil, Komfort und Klangqualität, die Ihren Musikgenuss auf ein völlig neues Niveau hebt.",
             "textAlignment": "left",
             "justify": "top",
-            "align": "left",
+            "align": "end",
             "background": true
           },
           "button": {
-            "label": "Capybara entdecken",
+            "label": "Jetzt entdecken",
             "link": "/gear/headphones-capybara_157",
             "variant": "primary"
           }
@@ -55,27 +55,27 @@
         },
         "content": {
           "image": {
-            "wideScreen": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Drone/drone-A-1024.avif",
-            "desktop": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Drone/drone-A-1024.avif",
-            "tablet": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Drone/drone-A-768.avif",
-            "mobile": "https://cdn02.plentymarkets.com/mevofvd5omld/frontend/Test_Banner_Drone/drone-A-320.avif",
+            "wideScreen": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Web.webp",
+            "desktop": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Web.webp",
+              "tablet": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Mobile_neu.webp",
+              "mobile": "https://cdn02.plentymarkets.com/mrt54q44tptl/frontend/startseite/2025/Startseite_5_Esszimmer_02-25_Mobile_neu.webp",
             "alt": "",
             "brightness": 0.75
           },
           "text": {
             "color": "#000",
             "bgcolor": "#fff",
-            "bgopacity": 1,
-            "pretitle": "Die Zukunft der Luftbildfotografie",
-            "title": "Drone Omega",
-            "htmlDescription": "Omega ist eine leichte Drohne, die für atemberaubende Luftaufnahmen entwickelt wurde. Mit einer hochauflösenden Kamera auf einem 3-Achsen-Gimbal und einer Flugzeit von bis zu 45 Minuten sorgt sie für stabile, flüssige Videos. GPS-unterstützter Schwebeflug, Hindernisvermeidung und einfache Transportfähigkeit machen die Drone zum perfekten Begleiter für Ihre Aufnahmen.",
+            "bgopacity": 0.8,
+            "pretitle": "Ganz nach deinem Geschmack",
+            "title": "Stilvolle und funktionale Esstische bereits ab CHF 74.90!",
+            "htmlDescription": "",
             "textAlignment": "left",
             "justify": "top",
             "align": "left",
             "background": true
           },
           "button": {
-            "label": "Omega entdecken",
+            "label": "Jetzt entdecken",
             "link": "/gear/drone-omega_154",
             "variant": "primary"
           }
@@ -175,35 +175,14 @@
       "uuid": "g7a6b5c4-d3e2-4f1a-9b8c-7d6e5f4a3b2c"
     },
     "content": {
-      "categoryId": "49",
+      "categoryId": "18",
       "text": {
-        "pretitle": "Mehr als nur Technik",
-        "title": "Entdecken Sie unsere Modekollektion",
-        "subtitle": "Sportive Mode und Accessories für alle.",
-        "htmlDescription": "<a class='underline' href='https://plentyshop.plentymarkets.com/kleidung' target='_self'>Zu unserer kompletten Kollektion.</a>"
+        "pretitle": "",
+        "title": "",
+        "subtitle": "",
+        "htmlDescription": ""
       }
     }
-  },
-  {
-      "name": "NewsletterSubscribe",
-      "type": "content",
-      "meta": {
-        "uuid": "0f1e2d3c-4b5a-4c7d-8e9f-1a2b3c4d5e6f"
-      },
-      "content": {
-        "text": {
-          "bgColor": "#f5f5f5",
-          "title": "Abonnieren Sie unseren Newsletter",
-          "htmlDescription": "Informieren Sie sich über bevorstehende Aktionen und Veranstaltungen. Erhalten Sie Geschenke und Sonderangebote!"
-        },
-        "input": {
-          "displayNameInput": true,
-          "nameIsRequired": false
-        },
-        "button": {
-          "label": "Newsletter abonnieren"
-        }
-      }
-    }
+  }
 ]
 
