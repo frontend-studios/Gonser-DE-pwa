@@ -28,13 +28,13 @@
             "brightness": 0.5
           },
           "text": {
-            "color": "#000",
+            "color": "rgb(60, 60, 60)",
             "bgcolor": "#fff",
             "bgopacity": 0.8,
             "pretitle": "Wo Träume wahr werden",
             "title": "Alles rund ums Schlafzimmer zum Tiefstpreis!",
             "subtitle": "",
-            "htmlDescription": "Unsere hochmodernen Kopfhörer: Entwickelt für das ultimative Hörerlebnis genügen sie auch den höchsten Ansprüchen. Entdecken Sie die perfekte Mischung aus Stil, Komfort und Klangqualität, die Ihren Musikgenuss auf ein völlig neues Niveau hebt.",
+            "htmlDescription": "",
             "textAlignment": "left",
             "justify": "top",
             "align": "end",
@@ -63,7 +63,7 @@
             "brightness": 0.75
           },
           "text": {
-            "color": "#000",
+            "color": "rgb(60, 60, 60)",
             "bgcolor": "#fff",
             "bgopacity": 0.8,
             "pretitle": "Ganz nach deinem Geschmack",
@@ -96,7 +96,7 @@
         "title": "Entdecke Technik & Style",
         "subtitle": "Innovative Technik trifft auf moderne Mode",
         "textAlignment": "center",
-        "color": "#000"
+        "color": "rgb(60, 60, 60)"
       },
       "button": {
         "buttonText": "Jetzt zuschlagen",
@@ -139,7 +139,7 @@
             "pretitle": "",
             "subtitle": "Innovative Technologie trifft moderne Fashion",
             "textAlignment": "left",
-            "color": "#000"
+            "color": "rgb(60, 60, 60)"
           },
           "button": {
             "label": "Zu unseren Kopfhörern",
